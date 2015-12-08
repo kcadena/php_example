@@ -1,0 +1,64 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+
+
+.glyphicon {
+    color: #8ba8af;
+}
+a .glyphicon {
+    color: inherit;
+}
+
+.big-glyph {
+    display: block;
+    text-align: center;
+    font-size: 3.0em;
+    margin-bottom: 0.25em;
+}
+
+
+
+/* Features
+-------------------------------------------------- */
+.features {
+    background: #FFFFFF;
+    color: #808080;
+    text-align: left;
+}
+.features .feature {
+    min-height: 80px;
+    margin-bottom: 55px;
+}
+.features .feature-icon {
+    font-size: 55px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 25px;
+    margin-bottom: 10px;
+}
+.features .feature h5 {
+    font-family: 'amblebold_italic';
+    font-size: 19px;
+    line-height: 20px;
+    color: #404040;
+}
+.features .feature p {
+    font-size: 14px;
+}
